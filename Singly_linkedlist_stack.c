@@ -109,7 +109,7 @@ void display()
     }  
     else  
     {  
-        printf("Printing Stack elements \n");  
+        printf("Printing Stack elements \n"); 
         while(ptr!=NULL)  
         {  
             printf("%d\n",ptr->val);  
