@@ -1,4 +1,4 @@
- def findSmallest(arr, n): 
+def findSmallest(arr, n): 
   
     res = 1 
     for i in range (0, n ): 
